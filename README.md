@@ -1,295 +1,90 @@
-# 👋 Hi, I'm Prabhakaran K
+<h1 align="center">Hi, I'm Prabhakaran K 👋</h1>
+<p align="center">Data Analyst (Fresher) · MBA, Periyar University, Salem</p>
 
-<div align="center">
-
-<img src="./github-banner.png" width="100%">
-
-<br><br>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+PostgreSQL;Turning+Data+into+Meaningful+Insights;Data+Driven+%7C+Insight+Focused+%7C+Impact+Oriented" alt="Typing SVG">
-</a>
-
-</div>
-
----
-
-## 🚀 About Me
-
-I'm an **Aspiring Data Analyst** passionate about transforming raw data into meaningful insights and supporting data-driven business decisions.
-
-I enjoy working with data through **SQL, Python, PostgreSQL, Power BI and Excel**, from data cleaning and exploratory analysis to visualization and business insights.
-
-🎯 Currently focused on building practical Data Analytics projects and strengthening my skills in SQL, Python and Business Intelligence.
-
----
-
-## 🛠️ Technical Skills
-
-### 📊 Data Analytics
-
-<p>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<p align="center">
+  <a href="https://www.linkedin.com/in/prabhakaran-k-705869292"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square" />
 </p>
 
-### 🗄️ Databases
+<hr>
 
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
+<h3>📌 About Me</h3>
 
-### 📈 Visualization & BI
+```python
+class Prabhakaran:
+    def __init__(self):
+        self.role   = "Data Analyst (Fresher)"
+        self.degree = "MBA, Periyar University"
+        self.skills = ["Power BI", "SQL", "Python", "Excel"]
+        self.status = "Open to work"
 
-<p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
-<img src="https://img.shields.io/badge/Seaborn-4C9A9A?style=for-the-badge">
-</p>
-
-### 💻 Tools
-
-<p>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</p>
-
----
-
-# 📊 Data Analytics Journey
-
-```text
-        RAW DATA
-           │
-           ▼
-    🧹 DATA CLEANING
-           │
-           ▼
-    🔍 EXPLORATORY ANALYSIS
-           │
-           ▼
-       🗄️ SQL ANALYSIS
-           │
-           ▼
-    📈 DATA VISUALIZATION
-           │
-           ▼
-     💡 BUSINESS INSIGHTS
-           │
-           ▼
-    🎯 BETTER DECISIONS
+    def goal(self):
+        return "Turn raw data into decisions businesses can act on."
 ```
 
----
+- 🔍 I work with **SQL, Python, and Power BI** to explore data and find real business insights
+- 📊 Comfortable with data cleaning, segmentation, cohort/retention analysis, and dashboarding
+- 🌱 Currently learning **DAX, data modeling, and cloud data tools**
+- 📍 Based in India · open to **Hybrid roles in Bengaluru**
 
-# 📌 Featured Projects
+<h3>🛠️ Skills</h3>
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+<h3>🚀 Projects</h3>
 
 <table>
-<tr>
-
-<td width="50%">
-
-### 🛍️ Retail Customer Data Analysis
-
-End-to-end analysis of retail transaction data to understand customer purchasing behavior, sales trends, product performance and customer segments.
-
-**Tech Stack**
-
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME/retail-customer-data-analysis">
-<img src="https://img.shields.io/badge/View%20Project-00C7FF?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🗄️ SQL Business Data Analysis
-
-Business-focused SQL analysis using PostgreSQL to explore customers, products, sales, revenue and performance trends.
-
-**Tech Stack**
-
-`SQL` `PostgreSQL` `CTE` `JOIN` `Window Functions`
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME/sql-business-data-analysis">
-<img src="https://img.shields.io/badge/View%20Project-00C7FF?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 📈 Power BI Sales Dashboard
-
-Interactive business dashboard designed to monitor sales performance, revenue trends, customer behavior and product performance.
-
-**Tech Stack**
-
-`Power BI` `DAX` `Excel` `Data Modeling`
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME/power-bi-sales-dashboard">
-<img src="https://img.shields.io/badge/View%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-</a>
-
-</td>
-
-<td width="50%">
-
-### 👥 Customer Segmentation & RFM
-
-Customer segmentation using Recency, Frequency and Monetary analysis to identify valuable, loyal and at-risk customers.
-
-**Tech Stack**
-
-`Python` `Pandas` `RFM` `Matplotlib`
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME/customer-segmentation-rfm-analysis">
-<img src="https://img.shields.io/badge/View%20Project-00C7FF?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-</tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/prabhakaranbca7-coder/Customer-Behaviour-analysis-">
+        <img src="https://raw.githubusercontent.com/prabhakaranbca7-coder/Customer-Behaviour-analysis-/main/Screenshot%202026-08-11%20160721.png" width="100%">
+      </a>
+      <b><a href="https://github.com/prabhakaranbca7-coder/Customer-Behaviour-analysis-">Customer Behaviour Analysis</a></b>
+      <p>Retail customer analysis using Python, PostgreSQL and Power BI — purchasing patterns, customer segments, and revenue insights.</p>
+      <sub>Python · PostgreSQL · Power BI</sub>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/prabhakaranbca7-coder/SQL-Advanced-analysis">
+        <img src="https://raw.githubusercontent.com/prabhakaranbca7-coder/SQL-Advanced-analysis/main/2_cohort_analysis.png" width="100%">
+      </a>
+      <b><a href="https://github.com/prabhakaranbca7-coder/SQL-Advanced-analysis">SQL Advanced Sales Analysis</a></b>
+      <p>Customer segmentation, cohort revenue tracking, and retention analysis — high-value segment drives 66% of revenue.</p>
+      <sub>PostgreSQL · Cohort Analysis</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b><a href="https://github.com/prabhakaranbca7-coder/project_py">Retail Customer Data Analytics</a></b>
+      <p>Python/Pandas retail analysis — RFM segmentation, churn behavior, and monthly sales trends.</p>
+      <sub>Python · Pandas · Seaborn</sub>
+    </td>
+    <td width="50%">
+      <b><a href="https://github.com/prabhakaranbca7-coder/sql_load">Data Analyst Job Market Analysis</a></b>
+      <p>SQL analysis of real job postings — highest-paying roles and best demand/salary skill combinations.</p>
+      <sub>SQL · PostgreSQL</sub>
+    </td>
+  </tr>
 </table>
 
-</div>
+<h3>📊 GitHub Stats</h3>
 
----
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=prabhakaranbca7-coder&show_icons=true&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhakaranbca7-coder&layout=compact&theme=default&hide_border=true" />
+</p>
 
-# 🔎 What I Can Do
+<hr>
 
-| Area                  | Skills                                                  |
-| --------------------- | ------------------------------------------------------- |
-| 🧹 Data Cleaning      | Missing values, duplicates, formatting, validation      |
-| 🔍 EDA                | Trends, patterns, distributions and relationships       |
-| 🗄️ SQL               | Joins, CTEs, subqueries, aggregations, window functions |
-| 📊 Visualization      | Charts, dashboards and KPI reporting                    |
-| 👥 Customer Analytics | Segmentation, RFM and behavior analysis                 |
-| 💡 Business Insights  | Turning analysis into actionable recommendations        |
-| 📈 BI                 | Power BI dashboards and DAX                             |
-| 🐍 Python             | Pandas, NumPy, Matplotlib and Seaborn                   |
-
----
-
-# 📚 Currently Learning
-
-```text
-Advanced SQL
-     ↓
-Power BI & DAX
-     ↓
-Advanced Excel
-     ↓
-Business Intelligence
-     ↓
-Advanced Data Analytics
-```
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true">
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true">
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true">
-
-</div>
-
----
-
-# 🐍 My Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-
-</div>
-
----
-
-# 🎯 Career Focus
-
-I'm currently looking for opportunities as:
-
-```text
-Data Analyst
-Junior Data Analyst
-Business Analyst
-BI Analyst
-Reporting Analyst
-```
-
-My goal is to use **data, technology and analytical thinking** to solve real-world business problems.
-
----
-
-# 💡 Data Analytics Philosophy
-
-<div align="center">
-
-### "Data tells the story. Analysis reveals the meaning."
-
-📊 **Analyze** → 🔍 **Understand** → 💡 **Discover** → 🚀 **Impact**
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Turning Data → Insights → Decisions**
-
-</div>
+<p align="center">
+  📫 <a href="https://www.linkedin.com/in/prabhakaran-k-705869292">Let's connect on LinkedIn</a> · Open to Data Analyst roles
+</p>
