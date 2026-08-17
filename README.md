@@ -151,13 +151,10 @@ SQL-driven analysis of real job postings data to find the highest-paying Data An
 
 </div>
 
-> ⚙️ **One-time setup for the snake animation below:** in this repo go to **Actions → New workflow → search "snake"**, or add [`platane/snk`](https://github.com/Platane/snk) as a scheduled GitHub Action. Once it runs once, the animation below goes live automatically.
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/prabhakaranbca7-coder/prabhakaranbca7-coder/output/github-contribution-grid-snake.svg)
-
-</div>
+> ⚙️ **Snake animation:** you already added the `snake.yml` workflow, so it will appear automatically here once that Action finishes running (check the **Actions** tab for a green checkmark) — [`raw.githubusercontent.com/prabhakaranbca7-coder/prabhakaranbca7-coder/output/github-contribution-grid-snake.svg`](https://github.com/prabhakaranbca7-coder/prabhakaranbca7-coder/actions). I left it out of this version so nothing shows broken in the meantime — paste the line back in once the Action shows a green checkmark:
+> ```md
+> ![Snake animation](https://raw.githubusercontent.com/prabhakaranbca7-coder/prabhakaranbca7-coder/output/github-contribution-grid-snake.svg)
+> ```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C7FF&height=150&section=footer" />
 
