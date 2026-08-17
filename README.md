@@ -1,90 +1,418 @@
-<h1 align="center">Hi, I'm Prabhakaran K 👋</h1>
-<p align="center">Data Analyst (Fresher) · MBA, Periyar University, Salem</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/prabhakaran-k-705869292"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square" />
-</p>
+<!-- ===================== BANNER ===================== -->
 
-<hr>
+<img src="./github-banner.png" width="100%" alt="Prabhakaran K - Data Analyst">
 
-<h3>📌 About Me</h3>
+<br><br>
 
-```python
-class Prabhakaran:
-    def __init__(self):
-        self.role   = "Data Analyst (Fresher)"
-        self.degree = "MBA, Periyar University"
-        self.skills = ["Power BI", "SQL", "Python", "Excel"]
-        self.status = "Open to work"
+<!-- ================= TYPING ANIMATION ================= -->
 
-    def goal(self):
-        return "Turn raw data into decisions businesses can act on."
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2800&pause=1000&color=00C7FF&center=true&vCenter=true&width=850&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+PostgreSQL+%7C+Power+BI;Turning+Data+into+Meaningful+Insights;Explore+%E2%86%92+Analyze+%E2%86%92+Visualize+%E2%86%92+Impact" alt="Typing Animation">
 
-- 🔍 I work with **SQL, Python, and Power BI** to explore data and find real business insights
-- 📊 Comfortable with data cleaning, segmentation, cohort/retention analysis, and dashboarding
-- 🌱 Currently learning **DAX, data modeling, and cloud data tools**
-- 📍 Based in India · open to **Hybrid roles in Bengaluru**
+<br>
 
-<h3>🛠️ Skills</h3>
+<!-- ================= PROFILE VIEWS ================= -->
 
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=prabhakaranbca7-coder&label=PROFILE%20VIEWS&color=00C7FF&style=for-the-badge">
 
-<h3>🚀 Projects</h3>
+<br><br>
+
+<!-- ================= SOCIAL LINKS ================= -->
+
+<a href="https://github.com/prabhakaranbca7-coder">
+<img src="https://img.shields.io/badge/GitHub-prabhakaranbca7--coder-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/prabhakaran-k-705869292/">
+<img src="https://img.shields.io/badge/LinkedIn-Prabhakaran%20K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+## 👋 About Me
 
 <table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/prabhakaranbca7-coder/Customer-Behaviour-analysis-">
-        <img src="https://raw.githubusercontent.com/prabhakaranbca7-coder/Customer-Behaviour-analysis-/main/Screenshot%202026-08-11%20160721.png" width="100%">
-      </a>
-      <b><a href="https://github.com/prabhakaranbca7-coder/Customer-Behaviour-analysis-">Customer Behaviour Analysis</a></b>
-      <p>Retail customer analysis using Python, PostgreSQL and Power BI — purchasing patterns, customer segments, and revenue insights.</p>
-      <sub>Python · PostgreSQL · Power BI</sub>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/prabhakaranbca7-coder/SQL-Advanced-analysis">
-        <img src="https://raw.githubusercontent.com/prabhakaranbca7-coder/SQL-Advanced-analysis/main/2_cohort_analysis.png" width="100%">
-      </a>
-      <b><a href="https://github.com/prabhakaranbca7-coder/SQL-Advanced-analysis">SQL Advanced Sales Analysis</a></b>
-      <p>Customer segmentation, cohort revenue tracking, and retention analysis — high-value segment drives 66% of revenue.</p>
-      <sub>PostgreSQL · Cohort Analysis</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b><a href="https://github.com/prabhakaranbca7-coder/project_py">Retail Customer Data Analytics</a></b>
-      <p>Python/Pandas retail analysis — RFM segmentation, churn behavior, and monthly sales trends.</p>
-      <sub>Python · Pandas · Seaborn</sub>
-    </td>
-    <td width="50%">
-      <b><a href="https://github.com/prabhakaranbca7-coder/sql_load">Data Analyst Job Market Analysis</a></b>
-      <p>SQL analysis of real job postings — highest-paying roles and best demand/salary skill combinations.</p>
-      <sub>SQL · PostgreSQL</sub>
-    </td>
-  </tr>
+<tr>
+
+<td width="65%">
+
+### 🚀 Aspiring Data Analyst
+
+I'm **Prabhakaran K**, an aspiring Data Analyst passionate about transforming raw data into meaningful business insights.
+
+I enjoy working with data using:
+
+- 🐍 **Python**
+- 🗄️ **SQL & PostgreSQL**
+- 📊 **Power BI**
+- 📑 **Excel**
+- 🔍 **Exploratory Data Analysis**
+- 📈 **Data Visualization**
+
+My approach is simple:
+
+> **Understand the data → Find the pattern → Build the insight → Support the decision**
+
+🎯 Currently focused on strengthening my skills in **Advanced SQL, Python Analytics, Power BI, DAX and Business Intelligence**.
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=prabhakaranbca7-coder&theme=algolia&no-frame=true&no-bg=true&row=2&column=2" width="100%">
+
+</td>
+
+</tr>
 </table>
 
-<h3>📊 GitHub Stats</h3>
+---
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=prabhakaranbca7-coder&show_icons=true&theme=default&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhakaranbca7-coder&layout=compact&theme=default&hide_border=true" />
-</p>
+# 🛠️ Technical Skills
 
-<hr>
+<div align="center">
 
-<p align="center">
-  📫 <a href="https://www.linkedin.com/in/prabhakaran-k-705869292">Let's connect on LinkedIn</a> · Open to Data Analyst roles
-</p>
+### 🐍 Python & Data Analysis
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+
+### 🗄️ SQL & Databases
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+
+### 📊 Business Intelligence
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+
+### 📈 Visualization
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
+<img src="https://img.shields.io/badge/Seaborn-4C9A9A?style=for-the-badge">
+
+### 💻 Tools
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</div>
+
+---
+
+# 📊 My Analytics Workflow
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+
+### 🗃️
+### DATA
+
+Raw Data
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+### 🧹
+### CLEAN
+
+Missing Values<br>
+Duplicates
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+### 🔍
+### EXPLORE
+
+Patterns<br>
+Trends
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+### 🗄️
+### ANALYZE
+
+SQL<br>
+Python
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+### 📊
+### VISUALIZE
+
+Charts<br>
+Dashboards
+
+</td>
+
+<td>→</td>
+
+<td align="center">
+
+### 💡
+### INSIGHT
+
+Business<br>
+Impact
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🗄️ SQL Advanced Analysis
+
+Business-focused SQL analysis using PostgreSQL to explore data and answer analytical questions.
+
+**Key Skills**
+
+`SQL` `PostgreSQL` `CTE` `JOIN` `Window Functions`
+
+<br>
+
+<a href="https://github.com/prabhakaranbca7-coder/SQL-Advanced-analysis">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00C7FF?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 👥 Customer Behaviour Analysis
+
+Analysis of customer purchasing behavior to identify trends, patterns and useful business insights.
+
+**Key Skills**
+
+`Python` `Pandas` `EDA` `Visualization`
+
+<br>
+
+<a href="https://github.com/prabhakaranbca7-coder/Customer-Behaviour-analysis">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00C7FF?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🐍 Python Data Analysis
+
+Python-based analytics project focused on data cleaning, exploration and visualization.
+
+**Key Skills**
+
+`Python` `Pandas` `NumPy` `Matplotlib`
+
+<br>
+
+<a href="https://github.com/prabhakaranbca7-coder/project_py">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00C7FF?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧮 SQL Data Loading
+
+Database project focused on loading structured datasets and performing SQL data operations.
+
+**Key Skills**
+
+`SQL` `PostgreSQL` `Database`
+
+<br>
+
+<a href="https://github.com/prabhakaranbca7-coder/sql_load">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00C7FF?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🔎 What I Can Do
+
+<div align="center">
+
+| Area | Skills |
+|:---|:---|
+| 🧹 **Data Cleaning** | Missing values • Duplicates • Validation |
+| 🔍 **EDA** | Trends • Patterns • Distributions |
+| 🗄️ **SQL** | JOIN • CTE • Subqueries • Window Functions |
+| 📊 **Visualization** | Charts • KPIs • Dashboards |
+| 👥 **Customer Analytics** | Behavior • Segmentation • RFM |
+| 🐍 **Python** | Pandas • NumPy • Matplotlib • Seaborn |
+| 📈 **Power BI** | DAX • Dashboards • Data Modeling |
+| 💡 **Business Insights** | Analysis • Recommendations • Decision Support |
+
+</div>
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=prabhakaranbca7-coder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhakaranbca7-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
+
+</div>
+
+<br>
+
+<!-- ================= ACTIVITY GRAPH ================= -->
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhakaranbca7-coder&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%">
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=prabhakaranbca7-coder&theme=tokyonight&hide_border=true&background=0D1117&ring=00C7FF&fire=FF6B35&currStreakLabel=00C7FF" width="75%">
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/prabhakaranbca7-coder/prabhakaranbca7-coder/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake">
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=7B61FF&center=true&vCenter=true&width=700&lines=Advanced+SQL;Power+BI+%26+DAX;Advanced+Excel;Business+Intelligence;Advanced+Data+Analytics" alt="Currently Learning">
+
+</div>
+
+---
+
+# 🎯 Career Focus
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Data%20Analyst-00C7FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Junior%20Data%20Analyst-7B61FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Business%20Analyst-00D084?style=for-the-badge">
+<img src="https://img.shields.io/badge/BI%20Analyst-FFB000?style=for-the-badge">
+
+<br><br>
+
+### 🚀 Career Goal
+
+**Transform data → discover insights → create business impact**
+
+</div>
+
+---
+
+# 💡 Data Analytics Philosophy
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=00C7FF&center=true&vCenter=true&width=750&lines=Data+tells+the+story.;Analysis+reveals+the+meaning.;Insights+drive+better+decisions." alt="Analytics Philosophy">
+
+<br><br>
+
+### 📊 ANALYZE
+### ↓
+### 🔍 UNDERSTAND
+### ↓
+### 💡 DISCOVER
+### ↓
+### 🚀 IMPACT
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/prabhakaranbca7-coder">
+<img src="https://img.shields.io/badge/GitHub-prabhakaranbca7--coder-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/prabhakaran-k-705869292/">
+<img src="https://img.shields.io/badge/LinkedIn-Prabhakaran%20K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<br><br>
+
+**📊 Data Analyst | 🐍 Python | 🗄️ SQL | 📈 Power BI**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7FF,50:7B61FF,100:00D084&height=120&section=footer">
+
+### ⭐ Thanks for visiting my profile!
+
+**Turning Data → Insights → Decisions**
+
+</div>
