@@ -62,7 +62,11 @@ My approach is simple:
 
 <td width="35%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prabhakaranbca7-coder&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" width="100%" alt="GitHub Statistics">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhakaranbca7-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" alt="Top Languages">
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=prabhakaranbca7-coder&label=PROFILE+VIEWS&color=00C7FF&style=for-the-badge" alt="Profile Views">
 
 </td>
 
