@@ -62,7 +62,7 @@ My approach is simple:
 
 <td width="35%" align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=prabhakaranbca7-coder&theme=algolia&no-frame=true&no-bg=true&row=2&column=2" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=prabhakaranbca7-coder&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" width="100%" alt="GitHub Statistics">
 
 </td>
 
