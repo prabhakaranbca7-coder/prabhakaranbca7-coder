@@ -352,11 +352,9 @@ Database project focused on loading structured datasets and performing SQL data 
 
 # 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/prabhakaranbca7-coder/prabhakaranbca7-coder/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake">
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prabhakaranbca7-coder/prabhakaranbca7-coder/github-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
 ---
 
