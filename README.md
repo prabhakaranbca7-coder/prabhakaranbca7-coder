@@ -1,162 +1,90 @@
-<div align="center">
+<h1 align="center">Hi, I'm Prabhakaran K 👋</h1>
+<p align="center">Data Analyst (Fresher) · MBA, Periyar University, Salem</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0D1117&height=3" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/prabhakaran-k-705869292"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square" />
+</p>
 
-```
-██████╗ ██████╗  █████╗ ██████╗ ██╗  ██╗ █████╗ ██╗  ██╗ █████╗ ██████╗  █████╗ ███╗   ██╗
-██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║  ██║██╔══██╗██║ ██╔╝██╔══██╗██╔══██╗██╔══██╗████╗  ██║
-██████╔╝██████╔╝███████║██████╔╝███████║███████║█████╔╝ ███████║██████╔╝███████║██╔██╗ ██║
-██╔═══╝ ██╔══██╗██╔══██║██╔══██╗██╔══██║██╔══██║██╔═██╗ ██╔══██║██╔══██╗██╔══██║██║╚██╗██║
-██║     ██║  ██║██║  ██║██████╔╝██║  ██║██║  ██║██║  ██╗██║  ██║██║  ██║██║  ██║██║ ╚████║
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+<hr>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=800&color=00FF41&background=0D111700&center=true&vCenter=true&width=800&lines=root%40portfolio%3A~%24+whoami;%3E+data_analyst.exe+--role%3D%22fresher%22;%3E+loading+skills...+%5BPower+BI%2C+SQL%2C+Python%5D;%3E+status%3A+OPEN_TO_WORK+%E2%9C%93" alt="Typing SVG" />
+<h3>📌 About Me</h3>
 
-<br>
+```python
+class Prabhakaran:
+    def __init__(self):
+        self.role   = "Data Analyst (Fresher)"
+        self.degree = "MBA, Periyar University"
+        self.skills = ["Power BI", "SQL", "Python", "Excel"]
+        self.status = "Open to work"
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0D1117)](https://www.linkedin.com/in/prabhakaran-k-705869292)
-[![Email](https://img.shields.io/badge/EMAIL-contact-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0D1117)](mailto:your.email@gmail.com)
-[![Status](https://img.shields.io/badge/STATUS-open__to__work-00FF41?style=for-the-badge&labelColor=0D1117)](https://www.linkedin.com/in/prabhakaran-k-705869292)
-
-</div>
-
-<br>
-
-```bash
-prabhakaran@devbox:~$ cat about.txt
+    def goal(self):
+        return "Turn raw data into decisions businesses can act on."
 ```
 
-> 🎓 MBA graduate — **Periyar University, Salem** — now compiling a career in Data Analytics
-> 🔍 Specialty: turning raw, messy data into decisions a business can actually act on
-> ⚙️  Daily drivers: **SQL** for extraction, **Python** for modeling, **Power BI** for storytelling
-> 📡 Currently indexing: DAX, data modeling, cloud data warehouses
-> 📍 India · open to **Hybrid / Bengaluru**
+- 🔍 I work with **SQL, Python, and Power BI** to explore data and find real business insights
+- 📊 Comfortable with data cleaning, segmentation, cohort/retention analysis, and dashboarding
+- 🌱 Currently learning **DAX, data modeling, and cloud data tools**
+- 📍 Based in India · open to **Hybrid roles in Bengaluru**
 
-<br>
+<h3>🛠️ Skills</h3>
 
-```bash
-prabhakaran@devbox:~$ cat skills.json
-```
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,postgres,mysql,git,github,vscode&theme=dark" height="55"/>
-<br><br>
-
-![Power BI](https://img.shields.io/badge/Power_BI-000000?style=flat-square&logo=powerbi&logoColor=00FF41)
-![Excel](https://img.shields.io/badge/Excel-000000?style=flat-square&logo=microsoft-excel&logoColor=00FF41)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=00FF41)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=00FF41)
-![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=00FF41)
-
-<br>
-
-```
-[■■■■■■■■■■■■■■■■■■□□] 90%  Power BI
-[■■■■■■■■■■■■■■■■□□□□] 85%  SQL / PostgreSQL
-[■■■■■■■■■■■■■■■□□□□□] 80%  Python / Pandas
-[■■■■■■■■■■■■■■■■□□□□] 85%  Excel
-```
-
-</div>
-
-<br>
-
-```bash
-prabhakaran@devbox:~$ ls -la ~/projects/
-```
+<h3>🚀 Projects</h3>
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://raw.githubusercontent.com/prabhakaranbca7-coder/Customer-Behaviour-analysis-/main/Screenshot%202026-08-11%20160721.png" width="100%">
-
-**[drwxr-xr-x  Customer-Behaviour-analysis-](https://github.com/prabhakaranbca7-coder/Customer-Behaviour-analysis-)**
-```
-> End-to-end retail behavior analysis: Python +
-> PostgreSQL + Power BI. Purchasing patterns,
-> customer segments, revenue insights.
-```
-`python` `postgresql` `power-bi`
-
-</td>
-<td width="50%" valign="top">
-
-<img src="https://raw.githubusercontent.com/prabhakaranbca7-coder/SQL-Advanced-analysis/main/2_cohort_analysis.png" width="100%">
-
-**[drwxr-xr-x  SQL-Advanced-analysis](https://github.com/prabhakaranbca7-coder/SQL-Advanced-analysis)**
-```
-> Customer segmentation + cohort revenue +
-> retention/churn. High-value segment drives
-> 66% of total revenue.
-```
-`postgresql` `cohort-analysis` `retention`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[drwxr-xr-x  project_py](https://github.com/prabhakaranbca7-coder/project_py)**
-```
-> Retail transaction analysis with Pandas,
-> Matplotlib, Seaborn. RFM segmentation
-> (P0/P1/P2), churn behavior, sales trends.
-```
-`python` `pandas` `seaborn` `rfm`
-
-</td>
-<td width="50%" valign="top">
-
-**[drwxr-xr-x  sql_load](https://github.com/prabhakaranbca7-coder/sql_load)**
-```
-> Job market analysis on real postings data.
-> Highest-paying roles + best demand/salary
-> skill combinations for Data Analysts.
-```
-`sql` `postgresql` `job-market`
-
-</td>
-</tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/prabhakaranbca7-coder/Customer-Behaviour-analysis-">
+        <img src="https://raw.githubusercontent.com/prabhakaranbca7-coder/Customer-Behaviour-analysis-/main/Screenshot%202026-08-11%20160721.png" width="100%">
+      </a>
+      <b><a href="https://github.com/prabhakaranbca7-coder/Customer-Behaviour-analysis-">Customer Behaviour Analysis</a></b>
+      <p>Retail customer analysis using Python, PostgreSQL and Power BI — purchasing patterns, customer segments, and revenue insights.</p>
+      <sub>Python · PostgreSQL · Power BI</sub>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/prabhakaranbca7-coder/SQL-Advanced-analysis">
+        <img src="https://raw.githubusercontent.com/prabhakaranbca7-coder/SQL-Advanced-analysis/main/2_cohort_analysis.png" width="100%">
+      </a>
+      <b><a href="https://github.com/prabhakaranbca7-coder/SQL-Advanced-analysis">SQL Advanced Sales Analysis</a></b>
+      <p>Customer segmentation, cohort revenue tracking, and retention analysis — high-value segment drives 66% of revenue.</p>
+      <sub>PostgreSQL · Cohort Analysis</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b><a href="https://github.com/prabhakaranbca7-coder/project_py">Retail Customer Data Analytics</a></b>
+      <p>Python/Pandas retail analysis — RFM segmentation, churn behavior, and monthly sales trends.</p>
+      <sub>Python · Pandas · Seaborn</sub>
+    </td>
+    <td width="50%">
+      <b><a href="https://github.com/prabhakaranbca7-coder/sql_load">Data Analyst Job Market Analysis</a></b>
+      <p>SQL analysis of real job postings — highest-paying roles and best demand/salary skill combinations.</p>
+      <sub>SQL · PostgreSQL</sub>
+    </td>
+  </tr>
 </table>
 
-<br>
+<h3>📊 GitHub Stats</h3>
 
-```bash
-prabhakaran@devbox:~$ ./fetch_github_stats.sh
-```
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=prabhakaranbca7-coder&show_icons=true&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhakaranbca7-coder&layout=compact&theme=default&hide_border=true" />
+</p>
 
-<div align="center">
+<hr>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=prabhakaranbca7-coder&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&ring_color=00FF41" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhakaranbca7-coder&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhakaranbca7-coder&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" />
-
-</div>
-
-<br>
-
-<!-- Once your snake.yml Action shows a green checkmark in the Actions tab, uncomment this:
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/prabhakaranbca7-coder/prabhakaranbca7-coder/output/github-contribution-grid-snake-dark.svg)
-
-</div>
--->
-
-```bash
-prabhakaran@devbox:~$ echo $CONTACT
-```
-
-<div align="center">
-
-📡 **[LinkedIn](https://www.linkedin.com/in/prabhakaran-k-705869292)** · open to Data Analyst roles (Hybrid / Bengaluru)
-
-![Profile Views](https://komarev.com/ghpvc/?username=prabhakaranbca7-coder&color=00FF41&style=flat-square&label=visitors)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:000000&height=3" />
-
-</div>
+<p align="center">
+  📫 <a href="https://www.linkedin.com/in/prabhakaran-k-705869292">Let's connect on LinkedIn</a> · Open to Data Analyst roles
+</p>
