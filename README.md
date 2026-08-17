@@ -62,11 +62,25 @@ My approach is simple:
 
 <td width="35%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhakaranbca7-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" alt="Top Languages">
+<h3>📊 Data Analytics</h3>
+
+<img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=prabhakaranbca7-coder&label=PROFILE+VIEWS&color=00C7FF&style=for-the-badge" alt="Profile Views">
+<img src="https://img.shields.io/badge/SQL-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=prabhakaranbca7-coder&label=PROFILE%20VIEWS&color=00C7FF&style=for-the-badge" alt="Profile Views">
 
 </td>
 
